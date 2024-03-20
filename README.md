@@ -14,6 +14,7 @@ This Python script is designed to check for SUID binaries on the local system an
 <h2>Setup</h2>
 
   Clone this repository to your local machine.
+  
   Set up your OpenAI API key by exporting it as an environment variable:
     
     export OPENAI_API_KEY=<your_api_key>
