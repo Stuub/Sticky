@@ -1,4 +1,4 @@
-<h1>Sticky - AI Powered Privilege Escalation!</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=34&pause=1000&random=false&width=852&lines=Sticky+-+AI+Powered+Privilege+Escalation)](https://git.io/typing-svg)
 
 This Python script is designed to check for SUID binaries on the local system and provide potential targets for privilege escalation. It utilizes OpenAI's GPT-3.5 model to generate a privilege escalation script based on the SUID binaries found.
 <h2>Usage</h2>
